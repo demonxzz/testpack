@@ -1,0 +1,13 @@
+{
+    "name": "fcdna/testpack",
+    "description": "testpack",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    }
+}
